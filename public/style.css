@@ -1,0 +1,18 @@
+.top:hover{
+background-color: rgb(175, 166, 166);
+}
+*{
+    margin: 0%;
+}
+
+.positive:hover{
+    cursor: pointer;
+    background-color: rgb(117, 223, 122);
+    color: rgb(0, 0, 0);
+}
+.negative:hover
+{
+    cursor: pointer;
+    background-color: rgb(231, 83, 115);
+    color: rgb(6, 25, 41);
+}
